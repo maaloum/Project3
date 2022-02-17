@@ -1,0 +1,10 @@
+#welcome-section {
+    top: 0;
+    background: green;
+    min-height: 55vh;
+    padding-top: 45vh;
+  }
+  #navbar {
+    position: fixed;
+  }
+  
